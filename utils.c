@@ -5,6 +5,7 @@
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
+ * A collaboration between emma and king
  */
 int is_printable(char c)
 {
